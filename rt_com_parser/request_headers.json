@@ -1,0 +1,18 @@
+{
+  "authority": "www.rt.com",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+  "accept-language": "en-US,en;q=0.9,uk;q=0.8",
+  "cache-control": "no-cache",
+  "cookie": "__ddgid_=t0dng8w5fvFSpbuJ; __ddgmark_=K56idy3Rm40hHKf1; __ddg5_=K7bo2NjU0ommEXvO; __ddg2_=OKppyP6BpSaS5dnj; __ddg1_=dCjWXmGElhMjY52AfWm7; _gid=GA1.2.559563181.1653149617; _ym_uid=1653149617237997408; _ym_d=1653149617; _ym_isad=2; _ym_visorc=b; podcast-volume=100; podcast-muted=false; __ddgid_=w3mTVyezCDNhLfuS; __ddgmark_=uZwGnSQe1o2UPXxB; _ga=GA1.2.185680746.1653149617; OX_sd=9; _ga_07ZGQT7GK0=GS1.1.1653149616.1.1.1653149949.0",
+  "pragma": "no-cache",
+  "referer": "https://www.rt.com/",
+  "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Linux\"",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "same-origin",
+  "sec-fetch-user": "?1",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
+}

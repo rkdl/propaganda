@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gensim = "*"
+numpy = "*"
+pandas = "*"
+sklearn = "*"
+notebook = "*"
+tweepy = "*"
+spacy = "*"
+googletrans = "==3.1.0a0"
+pymorphy2 = "*"
+matplotlib = "*"
+gunicorn = "*"
+Scweet = "*"
+Flask = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
